@@ -16,8 +16,8 @@ Run the following command:
 composer require kirchbergerknorr/jarlssen_uploadercomponent
 ```
 
+Original readme
 =================================
-Original readme:
 
 ### The configuration is pretty simple and it has three mandatory components:
 
