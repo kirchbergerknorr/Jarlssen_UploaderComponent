@@ -12,9 +12,6 @@ Run the following command:
 composer require jarlssen/uploadercomponent
 ```
 
-Original readme
-=================================
-
 ### The configuration is pretty simple and it has three mandatory components:
 
 - Class name of the model, that we want to give file upload functionality to
