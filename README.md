@@ -3,17 +3,13 @@ Jarlssen_UploaderComponent
 
 This is simple developer's extension that provides file upload functionality for the standard Magento admin forms. To get it to work, the developer just needs to install the module and add some configuration to his own module.
 
-For more information please visit http://www.sessiondigital.de/blog/magento-uploader-module-admin-forms/ or https://github.com/SessionDE/Jarlssen_UploaderComponent.
-
-*Please note that we are not the developer of this extension. In this repo we only added modman/composer support. We will not provide any support for this repository. If you have any problems on integration, please use the official links provided above.*
-
 Installation
 ------------
 
 Run the following command:
 
 ```
-composer require kirchbergerknorr/jarlssen_uploadercomponent
+composer require jarlssen/uploadercomponent
 ```
 
 Original readme
