@@ -1,5 +1,5 @@
 {
-    "name": "kirchbergerknorr/jarlssen_uploadercomponent",
+    "name": "jarlssen/uploadercomponent",
     "description": "Developer's extension that provides file upload functionality for the standard Magento admin forms",
     "type": "magento-module",
     "authors": [
