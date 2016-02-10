@@ -4,11 +4,7 @@
     "type": "magento-module",
     "authors": [
         {
-        	"name": "Michael Furtner", 
-        	"email": "mf@kirchbergerknorr.de"
+        	"name": "ceckoslab"
         }
-    ],
-    "require": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    ]
 }
